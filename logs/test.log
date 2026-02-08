@@ -1,0 +1,27 @@
+2026-02-07 18:27:54,168 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 18:27:55,074 - conftest - INFO - Response Status Code: 200
+2026-02-07 18:27:55,076 - conftest - INFO - Found 140 pets with sold status
+2026-02-07 19:22:00,055 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 19:22:00,668 - conftest - INFO - Response Status Code: 200
+2026-02-07 19:22:00,671 - conftest - INFO - Found 142 pets with sold status
+2026-02-07 19:55:17,081 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 19:57:09,684 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 20:03:56,831 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 20:03:57,421 - conftest - INFO - Response Status Code: 200
+2026-02-07 20:04:23,449 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 20:04:24,162 - conftest - INFO - Response Status Code: 200
+2026-02-07 20:04:24,162 - conftest - INFO - Found 137 pets with sold status
+2026-02-07 20:05:19,326 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-07 20:05:20,102 - conftest - INFO - Response Status Code: 200
+2026-02-07 20:05:20,102 - conftest - INFO - Found 137 pets with sold status
+2026-02-08 15:01:20,818 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-08 15:01:25,644 - conftest - INFO - Response Status Code: 200
+2026-02-08 15:01:25,649 - conftest - INFO - Found 162 pets with sold status
+2026-02-08 15:15:25,059 - conftest - INFO - Requesting: https://petstore.swagger.io/v2/pet/findByStatus with params: {'status': 'sold'}
+2026-02-08 15:15:25,845 - conftest - INFO - Response Status Code: 200
+2026-02-08 15:15:25,847 - conftest - INFO - Found 159 pets with sold status
+2026-02-08 16:48:40,957 - conftest - INFO - Creating pet with data: {'name': 'Vmio', 'status': 'sold', 'photo_urls': [], 'tags': [], 'category': {'id': 1, 'name': 'person'}}
+2026-02-08 16:48:49,235 - conftest - INFO - Response Status Code: 200
+2026-02-08 16:51:19,530 - conftest - INFO - Creating pet with data: {'name': 'Vmio', 'status': 'sold', 'photo_urls': [], 'tags': [], 'category': {'id': 1, 'name': 'person'}}
+2026-02-08 16:51:20,251 - conftest - INFO - Response Status Code: 200
+2026-02-08 16:51:20,252 - conftest - INFO - Created pet with ID: 9223372036854775807
