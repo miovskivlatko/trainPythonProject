@@ -38,7 +38,7 @@ class TestPetAPI:
         #     assert len(pets) == db_count, f'API returned {len(pets)} pets, but DB has {db_count}'
         # finally:
         #     db.disconnect()
-
+    #teest
     def test_create_pet(self, base_url, api_logger):
         from models.pet import PetData
         name = 'Vmio'
